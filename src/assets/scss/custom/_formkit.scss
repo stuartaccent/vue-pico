@@ -1,0 +1,37 @@
+.formkit-help {
+  display: block;
+  width: 100%;
+  margin-top: calc(var(--spacing) * -0.75);
+  margin-bottom: var(--spacing);
+  color: var(--muted-color);
+}
+
+.formkit-messages {
+  margin-bottom: var(--spacing);
+}
+
+.formkit-message {
+  color: var(--formkit-error-message-color);
+}
+
+.formkit-no-files {
+  display: block;
+  width: 100%;
+  margin-top: calc(var(--spacing) * -0.75);
+  margin-bottom: var(--spacing);
+}
+
+.formkit-file-list {
+  margin-top: calc(var(--spacing) * -0.75);
+  margin-bottom: 0;
+}
+
+.formkit-file-remove {
+  display: block;
+  width: 100%;
+  margin-bottom: var(--spacing);
+}
+
+.formkit-file-name {
+  padding-right: var(--spacing);
+}
